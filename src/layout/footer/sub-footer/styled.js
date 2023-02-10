@@ -25,5 +25,5 @@ export const Links = styled.a`
 export const Address = styled.p`
   line-height: 1.5;
   text-align: end;
-  flex: 2;
+  flex: 3;
 `;
