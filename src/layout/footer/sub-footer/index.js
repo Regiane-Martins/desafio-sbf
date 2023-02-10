@@ -5,13 +5,13 @@ function SubFooter() {
     <Section>
       <List>
         <li>
-          <Links href="#">Brasil</Links>
+          <Links href="/">Brasil</Links>
         </li>
         <li>
-          <Links href="#">Política de Privacidade</Links>
+          <Links href="/">Política de Privacidade</Links>
         </li>
         <li>
-          <Links href="#">Termos de Uso</Links>
+          <Links href="/">Termos de Uso</Links>
         </li>
       </List>
 

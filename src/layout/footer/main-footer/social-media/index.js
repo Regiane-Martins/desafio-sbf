@@ -6,7 +6,7 @@ function SocialMedia() {
       <Title>Redes sociais</Title>
       <List>
         <li>
-          <a href="#">
+          <a href="/">
             <img
               src={process.env.PUBLIC_URL + "/img/facebook.svg"}
               alt="logo facebook"
@@ -14,7 +14,7 @@ function SocialMedia() {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="/">
             <img
               src={process.env.PUBLIC_URL + "/img/instagram.svg"}
               alt="logo instagram"
@@ -22,7 +22,7 @@ function SocialMedia() {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="/">
             <img
               src={process.env.PUBLIC_URL + "/img/youtube.svg"}
               alt="logo youtube"

@@ -18,19 +18,19 @@ function SubHeader() {
           </section>
           <ul>
             <li>
-              <a href="#">Ajuda</a>
+              <a href="/">Ajuda</a>
             </li>
             <li>|</li>
             <li>
-              <a href="#">Acompanhe seu pedido</a>
+              <a href="/">Acompanhe seu pedido</a>
             </li>
             <li>|</li>
             <li>
-              <a href="#">Junte-se a nós</a>
+              <a href="/">Junte-se a nós</a>
             </li>
             <li>|</li>
             <li>
-              <a href="#">Entrar</a>
+              <a href="/">Entrar</a>
             </li>
           </ul>
         </NavContent>

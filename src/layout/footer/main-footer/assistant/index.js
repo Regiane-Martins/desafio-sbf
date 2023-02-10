@@ -6,37 +6,37 @@ function Assistant() {
       <Title>Ajuda</Title>
       <List>
         <li>
-          <ItemLink href="#">Dúvidas Gerais</ItemLink>
+          <ItemLink href="/">Dúvidas Gerais</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Encontre seu Tamanho</ItemLink>
+          <ItemLink href="/">Encontre seu Tamanho</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Entregas</ItemLink>
+          <ItemLink href="/">Entregas</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Pedidos</ItemLink>
+          <ItemLink href="/">Pedidos</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Trocas e Devoluções</ItemLink>
+          <ItemLink href="/">Trocas e Devoluções</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Editar consentimento</ItemLink>
+          <ItemLink href="/">Editar consentimento</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Preferências de Cookie</ItemLink>
+          <ItemLink href="/">Preferências de Cookie</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Pagamentos</ItemLink>
+          <ItemLink href="/">Pagamentos</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Produtos</ItemLink>
+          <ItemLink href="/">Produtos</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Corporativo</ItemLink>
+          <ItemLink href="/">Corporativo</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Fale Conosco</ItemLink>
+          <ItemLink href="/">Fale Conosco</ItemLink>
         </li>
       </List>
     </div>

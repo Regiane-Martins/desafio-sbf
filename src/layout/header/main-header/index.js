@@ -6,7 +6,7 @@ function MainHeader() {
     <Nav>
       <Container>
         <NavContent>
-          <a href="">
+          <a href="/">
             <Logo
               src={process.env.PUBLIC_URL + "/img/nike.svg"}
               alt="logo Nike"
@@ -14,27 +14,27 @@ function MainHeader() {
           </a>
           <ul>
             <li>
-              <a href="#">Lançamento</a>
+              <a href="/">Lançamento</a>
             </li>
             <li>
-              <a href="#">Masculino</a>
+              <a href="/">Masculino</a>
             </li>
             <li>
-              <a href="#">Feminino</a>
+              <a href="/">Feminino</a>
             </li>
             <li>
-              <a href="#">Infantil</a>
+              <a href="/">Infantil</a>
             </li>
             <li>
-              <a href="#">Ofertas</a>
+              <a href="/">Ofertas</a>
             </li>
             <li>
-              <a href="#">SNKRS</a>
+              <a href="/">SNKRS</a>
             </li>
           </ul>
           <div>
             <input type="search" placeholder="Buscar" />
-            <a href="#">
+            <a href="/">
               <Basket
                 src={process.env.PUBLIC_URL + "/img/cart.svg"}
                 alt="carrinho de compras"

@@ -6,7 +6,7 @@ function PitchBar() {
     <Nav>
       <Container>
         <NavContent>
-          <a href="#">
+          <a href="/">
             <Arrow
               src={process.env.PUBLIC_URL + "/img/arrow-left.svg"}
               alt="seta esquerda"
@@ -19,10 +19,10 @@ function PitchBar() {
               alt="logo grupo snkrs"
             />
             <p>
-              Fique por dentro dos lançamentos <a href="#">SNKRS</a>
+              Fique por dentro dos lançamentos <a href="/">SNKRS</a>
             </p>
           </div>
-          <a href="#">
+          <a href="/">
             <Arrow
               src={process.env.PUBLIC_URL + "/img/arrow-right.svg"}
               alt="seta direita"

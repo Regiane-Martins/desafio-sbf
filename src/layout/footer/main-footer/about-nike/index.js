@@ -6,10 +6,10 @@ function AboutNike() {
       <Title>Sobre a Nike</Title>
       <List>
         <li>
-          <ItemLink href="#">Feito para Jogar</ItemLink>
+          <ItemLink href="/">Feito para Jogar</ItemLink>
         </li>
         <li>
-          <ItemLink href="#">Sustentabilidade</ItemLink>
+          <ItemLink href="/">Sustentabilidade</ItemLink>
         </li>
       </List>
     </Section>

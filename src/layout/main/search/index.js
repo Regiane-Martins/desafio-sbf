@@ -9,7 +9,7 @@ function Search() {
         <Title>Lojas</Title>
         <Content>
           <Input type="text" placeholder="Busque por endereço ou CEP" />
-          <Button href="#">Buscar</Button>
+          <Button href="/">Buscar</Button>
         </Content>
       </Container>
     </Section>

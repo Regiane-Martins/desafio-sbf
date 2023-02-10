@@ -16,7 +16,7 @@ function News() {
             Cadastre-se e seja um dos primeiros a saber de todas as novidades e
             ofertas.
           </SubTitle>
-          <Button href="#">Cadastre-se</Button>
+          <Button href="/">Cadastre-se</Button>
         </Content>
       </Container>
     </Section>
